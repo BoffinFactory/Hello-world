@@ -20,6 +20,8 @@ if not check out our safety repository.
 
 * To get started with Boffin first go create an account on https://github.com/
 * Request access to the https://github.com/BoffinFactory page from any current
-member
+  member ( matthew.kijowski@wright.edu )
+* Request access to the room [via the Boffin Factory web
+  page](https://secure.wright.edu/content/cecs-room-348-card-swipe-access-request-form)
 * Check out our guides on linux and git
 * Have fun!
