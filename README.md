@@ -23,6 +23,6 @@ if not check out our safety repository.
   member ( matthew.kijowski@wright.edu )
 * Request access to the room [via the Boffin Factory web
   page](https://secure.wright.edu/content/cecs-room-348-card-swipe-access-request-form)
-* Check out our guides on linux and git
+* Check out our guides on [linux](https://github.com/BoffinFactory/linux) and [git](https://github.com/BoffinFactory/git)
 * Check out the [WrightState-ACM github group](https://github.com/WrightState-ACM)
 * Have fun!
